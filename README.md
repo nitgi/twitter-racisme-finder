@@ -3,7 +3,7 @@ This repository contains the script used in the research 'Did the murder of Geor
 
 IMPORTANT: in all cases retweets are also counted. This since retweeting something about 'racisme' also means giving attention to the subject.
 
-# Prerequisites
+# Requirements
 To run the shell script you will need a computer with Linux or any other Unix based operating system installed. Furthermore it is needed to have access to the Karora server. Access can be aquired at the Facultaty of Arts of the University of Groningen (Rijksuniversiteit). 
 
 ## How to use the script
