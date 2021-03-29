@@ -1,5 +1,5 @@
 # twitter-racisme-finder
-This repository contains the script used in the research 'Did the murder of George Floyd have an effect on racism awareness on social media in the Netherlands?' by N. Top (March, 2021). In this README.md file you will find instructions on how to reproduce the research. Furthermore it is explained what the script does and what the results of running the script are.
+This repository contains the script used in the research 'Did the murder of George Floyd have an effect on racism awareness on social media in the Netherlands?' by N. Top (March, 2021). In this README.md file you will find instructions on how to reproduce the results. Furthermore it is explained what the script does and what the results of running the script are.
 
 IMPORTANT: in all cases retweets are also counted. This since retweeting something about 'racisme' also means giving attention to the subject.
 
@@ -43,29 +43,29 @@ The script will go through millions of tweets that where sent in January, June a
 
 #### JANUARY 2020 RESULTS
 
-Total tweets: 
-
 Tweets that DO contain the word 'racisme':
 
 Tweets that DO NOT contain the word 'racisme':
+
+Total tweets: 
 
 
 #### JUNE 2020 RESULTS
 
-Total tweets: 
-
 Tweets that DO contain the word 'racisme':
 
 Tweets that DO NOT contain the word 'racisme':
+
+Total tweets: 
 
 
 #### SEPTEMBER 2020 RESULTS
 
-Total tweets:
-
 Tweets that DO contain the word 'racisme':
 
 Tweets that DO NOT contain the word 'racisme':
+
+Total tweets: 
 
 
 ## Functions in the script
@@ -76,6 +76,6 @@ There are two important functions in the script, namely: get_racisme_count and g
 - The second function, get_non_racisme_count, collects the text of all tweets sent in the Netherlands in a certain month. Then it grabs only the tweets that DO NOT contain the word 'racisme'. Lastly it counts the number of tweets it has found and returns this number.
 
 ## See actual tweets
-To see the actual tweets sent (and not only the count of tweets) you will have to edit the .sh file. From the commands remove the part that says '| wc -l'. This will provide you with all of the tweets that match the rest of the command.
+To see the actual tweets sent (and not only the count of tweets) you will have to edit the .sh file. From the functions get_racisme_count and get_non_racisme_count, remove the part that says '| wc -l'. This will provide you with all of the tweets that contain, or do not contain, the word racism.
 
    
