@@ -1,5 +1,5 @@
 # twitter-racisme-finder
-This repository contains the script used in the research 'Did the murder of George Floyd have an effect on racism awareness on social media in the Netherlands?' by N. Top (March, 2021). In this README.md file you will find instructions on how to reproduce the results. Furthermore it is explained what the script does and what the results of running the script are.
+This repository contains the script used in the research 'Did the murder of George Floyd have an effect on racism awareness on social media in the Netherlands?' (Top, 2021). In this README.md file you will find instructions on how to reproduce the results. Furthermore it is explained what the script does and what the results of running the script are.
 
 IMPORTANT: in all cases retweets are also counted. This since retweeting something about 'racisme' also means giving attention to the subject.
 
