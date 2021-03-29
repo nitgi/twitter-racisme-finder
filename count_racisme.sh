@@ -4,7 +4,7 @@
 # Filename: count_racisme.sh
 # Date: 25-03-2021
 
-# This script is used to collect data for the paper: 'how the murder of George Floyd affected racism on social media' (Top, 2020)
+# This script is used to collect data for the paper: 'how the murder of George Floyd affected racism on social media' (Top, 2021)
 # Running the script will take approximately 5 hours
 # For further instructions on how to use the script consult the README.md file found at: https://github.com/nitgi/twitter-racisme-finder
 
