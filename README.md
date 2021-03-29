@@ -43,29 +43,29 @@ The script will go through millions of tweets that where sent in January, June a
 
 #### JANUARY 2020 RESULTS
 
-Tweets that DO contain the word 'racisme':
+Tweets that DO contain the word 'racisme': 25048
 
-Tweets that DO NOT contain the word 'racisme':
+Tweets that DO NOT contain the word 'racisme': 14986489
 
-Total tweets: 
+Total tweets JAN: 15011537
 
 
 #### JUNE 2020 RESULTS
 
-Tweets that DO contain the word 'racisme':
+Tweets that DO contain the word 'racisme': 471603
 
-Tweets that DO NOT contain the word 'racisme':
+Tweets that DO NOT contain the word 'racisme': 19104326
 
-Total tweets: 
+Total tweets JUNE: 19575929
 
 
 #### SEPTEMBER 2020 RESULTS
 
-Tweets that DO contain the word 'racisme':
+Tweets that DO contain the word 'racisme': 68229
 
-Tweets that DO NOT contain the word 'racisme':
+Tweets that DO NOT contain the word 'racisme': 15780925
 
-Total tweets: 
+Total tweets SEPT: 15849154
 
 
 ## Functions in the script
